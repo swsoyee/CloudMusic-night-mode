@@ -1,6 +1,6 @@
 # 网易云音乐网页版 - 夜间模式CSS样式
 
-![home](../CloudMusic-night-mode/res/home.png)
+![home](https://raw.githubusercontent.com/swsoyee/CloudMusic-night-mode/master/res/home.png)
 
 ## 版本记录
 
